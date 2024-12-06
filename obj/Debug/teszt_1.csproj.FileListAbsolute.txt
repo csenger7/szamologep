@@ -1,0 +1,10 @@
+C:\Users\lengyelcs\gitwork\teszt_1\bin\Debug\teszt_1.exe.config
+C:\Users\lengyelcs\gitwork\teszt_1\bin\Debug\teszt_1.exe
+C:\Users\lengyelcs\gitwork\teszt_1\bin\Debug\teszt_1.pdb
+C:\Users\lengyelcs\gitwork\teszt_1\obj\Debug\teszt_1.csproj.AssemblyReference.cache
+C:\Users\lengyelcs\gitwork\teszt_1\obj\Debug\teszt_1.Form1.resources
+C:\Users\lengyelcs\gitwork\teszt_1\obj\Debug\teszt_1.Properties.Resources.resources
+C:\Users\lengyelcs\gitwork\teszt_1\obj\Debug\teszt_1.csproj.GenerateResource.cache
+C:\Users\lengyelcs\gitwork\teszt_1\obj\Debug\teszt_1.csproj.CoreCompileInputs.cache
+C:\Users\lengyelcs\gitwork\teszt_1\obj\Debug\teszt_1.exe
+C:\Users\lengyelcs\gitwork\teszt_1\obj\Debug\teszt_1.pdb
